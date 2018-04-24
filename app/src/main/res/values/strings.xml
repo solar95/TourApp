@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">TourApp</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="overview">Overview</string>
+    <string name="historicplaces">Historic Places</string>
+    <string name="events">Events</string>
+    <string name="publicplaces">Public Places</string>
+    <string name="coffees">Coffees</string>
+    <string name="restaurants">Restaurants</string>
+    <string name="action_settings">Settings</string>
+    <string name="texcoco1">Texcoco, State of Mexico</string>
+    <string name="texDescription">Texcoco is a city and municipality located in the State of Mexico, 25 km northeast of Mexico City. In the pre-Hispanic era, this was a major Aztec city on the shores of Lake Texcoco. After the Conquest, the city was initially the second most important after Mexico City, but its importance faded over time, becoming more rural in character.</string>
+</resources>
